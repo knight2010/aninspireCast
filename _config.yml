@@ -24,6 +24,6 @@ permalink: /episodes/:title/
 sass:
   style: compressed
 
-url: https://hub.sourcesquarechina.online/aninspireCast
+url: https://hub.sourcesquarechina.online
 
 timezone: America/Los_Angeles
