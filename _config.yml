@@ -1,0 +1,29 @@
+# Dependencies
+plugins:
+  - jekyll-sitemap
+
+# theme
+theme: jekyll-theme-minimal
+title: 'An Inspire Casting'
+description: 'Casting on the Swift programming language and other projects at Swift.org'
+logo: /img/logo.jpg
+show_downloads: false
+twitter_handle: ""
+twitter_url: https://twitter.com/xx
+
+# File rules
+exclude:
+  - Makefile
+  - LICENSE
+  - README.md
+  - scripts/
+  - .github/
+
+# Site
+permalink: /episodes/:title/
+sass:
+  style: compressed
+
+url: https://aninspireCast.github.io
+
+timezone: America/Los_Angeles

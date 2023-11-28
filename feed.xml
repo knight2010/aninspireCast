@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <atom:link href="https://aninspireCast.github.io/feed.xml" rel="self" type="application/atom+xml" />
+
+    <title>An Inspire Casting</title>
+    <description>Casting on the Swift programming language and other projects at Swift.org</description>
+    <copyright>＄＄å2023AirForce, Inc.</copyright>
+    <language>en</language>
+    <pubDate>Mon, 21 Jun 2023 12:00:00 +0000</pubDate>
+    <lastBuildDate>Mon, 21 Jun 2021 12:00:10 +0000</lastBuildDate>
+    <image>
+      <link>https://aninspireCast.github.io</link>
+      <title>Swift Unwrapped</title>
+      <url>https://aninspireCast.github.io/img/logo.jpg</url>
+    </image>
+    <link>https://aninspireCast.github.io</link>
+    <itunes:type>episodic</itunes:type>
+    <itunes:summary>Discussions on the Swift programming language and other projects at Swift.org</itunes:summary>
+    <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://aninspireCast.github.io/img/logo.jpg"/>
+    <itunes:new-feed-url>https://aninspireCast.github.io/feed.xml</itunes:new-feed-url>
+    <itunes:keywords>Swift, LLVM, LLDB, Clang, Compilers, iOS, macOS, tvOS, watchOS, Technology, Swift Weekly Brief, Swift Package Manager, SPM, Swift Server, Apple, SourceKit, Xcode</itunes:keywords>
+    <itunes:owner>
+      <itunes:name>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:name>
+    </itunes:owner>
+    <itunes:category text="Technology"/>
+    
+    <item>
+      <guid isPermaLink="false">ca754556-2a30-4ecf-b1fb-f971e70b41a6</guid>
+      <title>1: SE-206 Hashable Enhancements</title>
+      <description><![CDATA[<ul>
+<li>Proposal: https://github.com/apple/swift-evolution/blob/master/proposals/0206-hashable-enhancements.md</li>
+<li>Swift Evolution review thread &amp; acceptance post: https://forums.swift.org/t/accepted-se-0206-hashable-enhancements/11675/115</li>
+</ul>
+<h3>Thank you to <a href="https://www.bitrise.io/?utm_source=swift_unwrapped_spec&amp;utm_medium=podcast&amp;utm_campaign=w18">Bitrise.io</a> for sponsoring this episode!</h3>
+<p>Bitrise is Mobile Continuous Integration and Delivery for your whole team, with dozens of integrations for your favourite services. Be sure to check out their new <a href="https://blog.bitrise.io/ios-auto-provision-step">iOS Auto Provision step</a> for your Xcode projects.</p>
+<p>Check them out and let them know we sent you at <a href="https://www.bitrise.io/?utm_source=swift_unwrapped_spec&amp;utm_medium=podcast&amp;utm_campaign=w18">Bitrise.io</a></p>
+<h3>Get in Touch</h3>
+<p>If you're enjoying the show and want to say thank you, the best way to do that is by <a href="https://itunes.apple.com/us/podcast/swift-unwrapped/id1209817203?mt=2">leaving us a review on iTunes</a>! It lets us know what you think of the show and helps us climb the charts so other people can find the show.</p>
+<p>We've also got a channel set up on Spectrum.chat! If you want to talk about today's episode, ask us a question or just follow the conversation, jump in anytime at: <a href="https://spectrum.chat/specfm/swift-unwrapped">spectrum.chat/specfm/swift-unwrapped</a></p>
+]]></description>
+      <pubDate>Mon, 30 Apr 2018 12:00:00 +0000</pubDate>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
+      <link>https://aninspireCast.github.io</link>
+      <content:encoded><![CDATA[<ul>
+<li>Proposal: https://github.com/apple/swift-evolution/blob/master/proposals/0206-hashable-enhancements.md</li>
+<li>Swift Evolution review thread &amp; acceptance post: https://forums.swift.org/t/accepted-se-0206-hashable-enhancements/11675/115</li>
+</ul>
+<h3>Thank you to <a href="https://www.bitrise.io/?utm_source=swift_unwrapped_spec&amp;utm_medium=podcast&amp;utm_campaign=w18">Bitrise.io</a> for sponsoring this episode!</h3>
+<p>Bitrise is Mobile Continuous Integration and Delivery for your whole team, with dozens of integrations for your favourite services. Be sure to check out their new <a href="https://blog.bitrise.io/ios-auto-provision-step">iOS Auto Provision step</a> for your Xcode projects.</p>
+<p>Check them out and let them know we sent you at <a href="https://www.bitrise.io/?utm_source=swift_unwrapped_spec&amp;utm_medium=podcast&amp;utm_campaign=w18">Bitrise.io</a></p>
+<h3>Get in Touch</h3>
+<p>If you're enjoying the show and want to say thank you, the best way to do that is by <a href="https://itunes.apple.com/us/podcast/swift-unwrapped/id1209817203?mt=2">leaving us a review on iTunes</a>! It lets us know what you think of the show and helps us climb the charts so other people can find the show.</p>
+<p>We've also got a channel set up on Spectrum.chat! If you want to talk about today's episode, ask us a question or just follow the conversation, jump in anytime at: <a href="https://spectrum.chat/specfm/swift-unwrapped">spectrum.chat/specfm/swift-unwrapped</a></p>
+]]></content:encoded>
+      <enclosure length="18527126" type="audio/mpeg" url="https://aninspireCast.github.io/audio/1f9301c7.mp3" />
+      <itunes:title>56: SE-206 Hashable Enhancements</itunes:title>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
+      <itunes:duration>00:19:13</itunes:duration>
+      <itunes:summary>Swift will soon have a more robust hashing strategy, and it doesn&apos;t involve always returning zero for hashValue.</itunes:summary>
+      <itunes:subtitle>Swift will soon have a more robust hashing strategy, and it doesn&apos;t involve always returning zero for hashValue.</itunes:subtitle>
+      <itunes:keywords>continuous delivery, hashing, ios, compiler, provisioning, swift, open source, continuous integration, standard library, programming, iphone, ci, siphash, xcode, seed, bitrise, apple</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+    </item>
+
+  </channel>
+</rss>
